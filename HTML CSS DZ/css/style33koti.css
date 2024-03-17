@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+image {
+    width: 250px;
+}
+
+.box_inner {
+    text-align: center;
+
+}
+
+h2,
+p {
+    color: blue;
+    line-height: 30px;
+}
+
+.box_inner {
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    max-width: 500px;
+}
+
+.icons > div {
+    width: 50px;
+    height: 50px;
+    border: 2px solid color #30a740);
+    
+}
+
+    {
+    align-items: center;
+    margin: 30px 0;
+}

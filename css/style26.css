@@ -1,0 +1,16 @@
+.box {
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.box1 {
+    background-color: brown;
+    margin: 10px 20px 30px 40px;
+}
+
+.box2 {
+    background-color: aqua;
+    padding: 15px;
+}

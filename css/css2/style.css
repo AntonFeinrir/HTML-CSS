@@ -1,0 +1,23 @@
+p {
+    color: rgb(237, 19, 19);
+    border: 10px black solid;
+    border-radius: 5px 10px 20px 30px;
+}
+
+* {
+    background-color: #32c156;
+}
+
+div[title] {
+    color: blue;
+    border: 3px red dotted;
+
+}
+
+.logo {
+    background-image: url(../img/main/ЕГОИС.jpg);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 150px;
+    border: 1px solid black; 
+}
